@@ -284,7 +284,6 @@ body{
 .nito3{
     display: flex;
     background-image: url("Path4.png");
-    background-position: center;
     align-items: center;
     flex-direction: column;
     width: 375px;
@@ -310,6 +309,9 @@ body{
     color: var(--white);
  
 
+}
+.nito3-i{
+    margin-top: 109px;
 }
 .input{
     width: 320px;
@@ -452,7 +454,7 @@ body{
         width: 100vw;
     }
     .hed{
-        
+        gap:921px;
         display: flex;
         margin-top: 78px;
     }
